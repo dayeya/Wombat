@@ -1,0 +1,5 @@
+// A basic wombat application.
+
+fnc main(args: ch[]) >> void {
+    write("Hello, World!");
+}
