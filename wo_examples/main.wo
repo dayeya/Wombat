@@ -1,5 +1,5 @@
 // A basic wombat application.
 
 fnc main(args: ch[]) >> void {
-    write("Hello, World!");
+    system.print("Hello, World!");
 }
